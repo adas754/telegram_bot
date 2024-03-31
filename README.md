@@ -38,6 +38,7 @@ pip install -r requirements.txt
 ```bash
 python my_bot.py
 ```
-![Uploading Screenshot (55).png…]()
+![Screenshot (55)](https://github.com/adas754/telegram_bot/assets/83580623/e409af61-ce20-4603-b18f-7462b3d7b86e)
+
 
 
