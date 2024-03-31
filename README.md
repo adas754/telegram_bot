@@ -34,12 +34,9 @@ conda activate telebot
 ```bash
 pip install -r requirements.txt
 ```
-## Telegram Setup:
+### STEP 03 - Run File
+```bash
+python my_bot.py
+```
 
-1. Search for botfather
-2. /newbot
-   - mybot88
-   - mybot88_bot
 
-   * Now click on url to access the bot
-   * Make sure you collect the access token
